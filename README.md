@@ -1,10 +1,11 @@
 # sqlalchemy-challenge
-## Instructions
+
+Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following sections outline the steps you must take to accomplish this task.
 
 ![surfs-up](https://user-images.githubusercontent.com/107436951/196038693-da65f2be-ddaf-4f76-8626-bfdbdc771305.png)
 
 
-Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following sections outline the steps you must take to accomplish this task.
+# Instructions
 
 ### Part 1: Climate Analysis and Exploration
 
